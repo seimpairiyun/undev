@@ -1,3 +1,5 @@
+<!-- GitHub Profile README for Seimpairiyun -->
+
 <h1 align="center">Seimpairiyun here 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="120" alt="Welcome Gif"/>
@@ -51,4 +53,4 @@
 
 ---
 
-> “Simplicity is the ultimate sophistication.” – Cak Nun
+> “The human as space that accommodates furnishings of every shape and form, jostling together within it.” – Emha Ainun Nadjib
